@@ -2,4 +2,4 @@ pyTelegramBotAPI
 requests
 ccxt
 pandas
-numpy
+asyncio
